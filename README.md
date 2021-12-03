@@ -1,2 +1,1 @@
-# AoMaBanana
-Script Bee Swarn
+Đừng quan tâm cái này
